@@ -26,6 +26,7 @@ print(fg.lightBlue + "Light Blue Text")
 
 How it appears:
 
+![Text with colored foreground](https://github.com/Samuel9360639/kolor/assets/153092961/d3535f11-3d71-4f99-809a-c87ba1645d72)
 
 We can also print text with a colored background:
 
@@ -45,6 +46,7 @@ print(bg.lightblue + "Light Blue Background")
 
 How it appears:
 
+![Text with colored background](https://github.com/Samuel9360639/kolor/assets/153092961/480c5f56-3ad9-4ccb-b866-f001d1a45692)
 
 Available colors for fg and bg:
 
@@ -91,6 +93,7 @@ print(bg.cmyk(100, 0, 0, 0) + "Cyan Background" + reset.bg)
 
 How it appears:
 
+![Text with customized colors](https://github.com/Samuel9360639/kolor/assets/153092961/d66c6932-bcf1-4737-b494-10df1a532d73)
 
 ## How To Print Stylized Text
 
@@ -106,6 +109,7 @@ print(style.underline + "Underlined Text" + style.reset.underline)
 
 How it appears:
 
+![Stylized text](https://github.com/Samuel9360639/kolor/assets/153092961/c8779106-0465-4259-9bf6-0d938454e520)
 
 Available Styles:
     
@@ -179,6 +183,7 @@ print(convert.rgb_to_cmyk(0, 255, 0))
 
 Output:
 
+![Convert color space values](https://github.com/Samuel9360639/kolor/assets/153092961/21b9e275-c72a-4e68-8948-fa03a47eb1be)
 
 ## Thanks!
 
